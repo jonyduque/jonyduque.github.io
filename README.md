@@ -1,14 +1,18 @@
-# Apostilas eProc - Material de Treinamento
+# Jony Duque - GitHub Pages
 
-Este repositório contém materiais de treinamento do sistema eProc (Processo Judicial Eletrônico) do Tribunal de Justiça de Santa Catarina.
+Bem-vindo ao meu site pessoal no GitHub Pages!
 
-## 📚 Conteúdo
+## 📚 Apostilas eProc - Material de Treinamento
 
-- **82 documentos** em formato Markdown
-- **3267 imagens** organizadas
-- **Conversor HTML → Markdown** incluído
+Esta seção contém materiais de treinamento do sistema eProc (Processo Judicial Eletrônico) do Tribunal de Justiça de Santa Catarina.
 
-## 🔧 Estrutura
+### 📊 Conteúdo Disponível
+
+- **82+ documentos** em formato Markdown
+- **3.267 imagens** organizadas
+- **Material oficial** do TJSC
+
+### 🔧 Estrutura
 
 ```
 docs/
@@ -17,32 +21,25 @@ docs/
 └── README.md      # Índice dos documentos
 ```
 
-## 📋 Documentos Disponíveis
+### 📋 Principais Documentos
 
-- [00-eproc-cartorio-intermediario-conteudo-integral](docs/apostilas/.md)
-- [00_-_eproc_2g_gab_-_conteudo_integral_do_curso-04](docs/apostilas/.md)
-- [00_-_eproc_2g_gab_-_conteudo_integral_do_curso](docs/apostilas/.md)
-- [00_-_eproc_2g_uj_-_conteudo_integral_do_curso-17-0](docs/apostilas/.md)
-- [00_-_eproc_2g_uj_-_conteudo_integral_do_curso](docs/apostilas/.md)
-- [00_-_eproc_basico__unid_jud_portal_-_conteudo_inte](docs/apostilas/.md)
-- [00_-_eproc_basico_gab_portal_-_conteudo_integral_d](docs/apostilas/.md)
-- [00_-_eproc_cejusc_portal_-_conteudo_integral_do_cu](docs/apostilas/.md)
-- [00_-_eproc_central_mandados_portal_-_conteudo_inte](docs/apostilas/.md)
-- [00_-_eproc_interm_gab_portal_-_conteudo_integral_d](docs/apostilas/.md)
-- [00_-_eproc_interm_unid_jud_portal_-_conteudo_integ](docs/apostilas/.md)
-- [00_-_eproc_oj_portal_-_conteudo_integral_do_curso](docs/apostilas/.md)
-- [00_eproc_magistrados_portal_integral](docs/apostilas/.md)
-- [16-intimacoes](docs/apostilas/.md)
-- [acoes-i-arvore-_2_](docs/apostilas/.md)
-- [acoes-ii-atos-de-comunicacao-_3_](docs/apostilas/.md)
-- [acoes-iii-baixa-definitiva-_1_](docs/apostilas/.md)
-- [acoes-iv-movimentacao-processual-e-regra-de-sequen](docs/apostilas/.md)
-- [acoes-ix-suscitar-conflito-no-tjmg-_2_](docs/apostilas/.md)
-- [acoes-preferenciais-por-localizador](docs/apostilas/.md)
+- [16. Intimações](docs/apostilas/16-intimacoes.md)
+- [Manual de Tramitação Ágil](docs/apostilas/_manual-tramitacao-agil-acoes-programadas.md)
+- [Distribuição de Processos](docs/apostilas/distribuicao-de-processos.md)
+- [Elaboração de AR Digital](docs/apostilas/elaboracao-e-envio-de-ar-digital-_e-carta_-_1_-_1_.md)
+- [Domicílio Judicial Eletrônico](docs/apostilas/domicilio-judicial-eletronico-4.md)
 
-... e mais 62 documentos
+### 🌐 Acesso Completo
+
+Para ver todos os documentos disponíveis, navegue pela pasta [docs/apostilas/](docs/apostilas/).
+
+---
 
 ## 🛠️ Como Foi Criado
 
-Este material foi convertido automaticamente de documentos HTML para Markdown usando ferramentas personalizadas.
+Este material foi convertido automaticamente de documentos HTML para Markdown usando ferramentas personalizadas desenvolvidas com Python e BeautifulSoup.
 
+---
+
+*Material oficial do Tribunal de Justiça de Santa Catarina*  
+*Convertido automaticamente com [Claude Code](https://claude.ai/code)*
