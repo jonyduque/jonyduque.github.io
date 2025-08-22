@@ -1,0 +1,13 @@
+# Arquivos de desenvolvimento
+html_output/
+html_processed/
+imagens/
+test_output/
+*.pyc
+__pycache__/
+*.log
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
