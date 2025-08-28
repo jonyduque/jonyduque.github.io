@@ -8,29 +8,6 @@ __pycache__/
 *.log
 *.tmp
 
-# Scripts de desenvolvimento
-conversor_markdown.py
-test_conversor.py
-processador_html*.py
-debug_*.py
-test_*.py
-script.py
-upload_github.sh
-converter_html.py
-*.json
-
-# Pastas de trabalho
-TJMG*/
-TJRS*/
-TJSC*/
-TJSP*/
-TRF4*/
-TELAS*/
-texto*/
-INSTRUÇÕES_UPLOAD.md
-GEMINI.md
-
 # Arquivos do sistema
 .DS_Store
 Thumbs.db
-.claude/
