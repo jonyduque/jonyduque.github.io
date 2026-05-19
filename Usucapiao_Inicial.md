@@ -1,6 +1,6 @@
-# USUCAPIÃO DE IMÓVEL
+# USUCAPIÃO DE IMÓVEL - ASPECTOS GERAIS E PETIÇÃO INICIAL
 
-Neste documento trataremos das usucapiões de bens imóveis.
+Neste documento trataremos sobre aspectos gerais e requisitos das petições iniciais e documentos relativos à usucapiões de bens imóveis.
 
 ## 1. CONTEXTO GERAL
 Neste tópico serão tratados de pontos para contextualização e conhecimento necessários para as tarefas.
