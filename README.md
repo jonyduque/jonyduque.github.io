@@ -1,1 +1,2 @@
-[Usucapi„o - PetiÁ„o inicial](Usucapiao_Inicial.md)
+[Usucapi√£o - Peti√ß√£o inicial](Usucapiao_Inicial.md)
+[Usucapi√£o - Andamento](Usucapiao_Andamento.md)
