@@ -2,4 +2,4 @@
 
 [Usucapião - Andamento](Usucapiao_Andamento.md)
 
-[Relatório para sentença](Relatorio_para_sentenca.md)
+[Templates - sentença](Templates_sentenca.md)
